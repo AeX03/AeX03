@@ -17,13 +17,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## :exclamation: Disclaimer
                                                    TO BE USED FOR Education Purpose
