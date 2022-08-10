@@ -18,13 +18,6 @@
 <br>
 <br>
 
-<hr>
-<a href="https://discord.com/users/447889776612343828">
-  <p align="center">
-    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/447889776612343828?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=AEX%20for%20ever" />
-  </p>
-</a>
-
 ## :exclamation: Disclaimer
                                                    TO BE USED FOR Education Purpose
 
