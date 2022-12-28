@@ -3,7 +3,7 @@
  
  <div  align="center">
   
-[![SELLIX TO BUY](https://img.shields.io/badge/MY%20SELLIX%20SHOP%20TO%20BUY-red.svg)](https://aex03.mysellix.io/)
+[![SELLIX TO BUY](https://img.shields.io/badge/MY%20SELLIX%20SHOP%20TO%20BUY-red.svg)](https://elys.mysellix.io/)
 </div >
  
 </p align="center">
