@@ -1,6 +1,11 @@
 <p align="center"> hello today I will be your host to the realization of your exploits! </p align="center">
 <p align="center">
  
+ <div  align="center">
+  
+[![SELLIX TO BUY](https://img.shields.io/badge/MY%20SELLIX%20SHOP%20TO%20BUY-red.svg)](https://aex03.mysellix.io/)
+</div >
+ 
 </p align="center">
 <!--- Picture --->
 <p align="center">
