@@ -21,12 +21,6 @@
 </p>
 <br>
 <br>
-<a href="https://discord.com/users/447889776612343828">
-  <p align="center">
-    <img align="center" src="https://lanyard.cnrad.dev/api/447889776612343828" />
-  </p>
-</a>
-<br>
 <br>
 <br>
 
